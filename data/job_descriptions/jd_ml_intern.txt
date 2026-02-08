@@ -1,0 +1,2 @@
+Required Skills: Python, SQL, Machine Learning, NLP
+Responsibilities: Build and evaluate machine learning models
